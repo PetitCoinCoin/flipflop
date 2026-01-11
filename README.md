@@ -1,2 +1,3 @@
-# flipflop
+## FlipFlop
+
 FlipFlop challenges
