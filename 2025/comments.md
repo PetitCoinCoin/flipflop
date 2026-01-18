@@ -2,3 +2,5 @@
 
 So far, nice puzzles, with funny artwork.
 Nothing fancy, but I get to practice my knowledge of python libraries, which is nice.
+
+Last puzzle was fun to vizualize what's happening!
